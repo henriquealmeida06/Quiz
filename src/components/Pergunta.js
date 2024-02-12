@@ -40,7 +40,7 @@ function Pergunta(){
         </div>
 
         <div onClick={()=> selecionado('A')} className="w-2/3 lg:w-1/2 bg-transparent flex gap-3  font-Roboto ">
-        <div className={`bg-gray-800 px-5 py-2 cursor-pointer ${selecionarA? "bg-gray-800": ''}`}><p className="text-white">A</p></div>
+        <div className={`bg-gray-800 px-5 py-2 cursor-pointer ${selecionarA? "bg-green-800": ''}`}><p className="text-white">A</p></div>
         <div className={`w-screen flex justify-start cursor-pointer items-center ${selecionarA? "bg-green-700":'bg-white'}`}><p className={`text-gray-800 pl-4 font-medium ${selecionarA?"text-white":''}`}>Abraham Lincoln</p></div>
         </div>
 
