@@ -6,6 +6,9 @@ module.exports = {
       fontFamily:{
         'Roboto':['Roboto']
       },
+      backgroundColor:{
+        'verdeCustom':'#3a8750'
+      }
     },
   },
   plugins: [],
