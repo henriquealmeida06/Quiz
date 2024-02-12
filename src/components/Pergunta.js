@@ -36,7 +36,7 @@ function Pergunta(){
 
         <div className="flex flex-col justify-center items-center overflow-x-hidden">
         <div className=" px-10 py-5 w-1/2 h-1/4 mb-4 bg-gray-800 flex justify-center rounded-lg">
-            <p className="text-white font-Roboto text-lg lg:text-2xl ">Quem descobriu o Brasil</p>
+            <p className="text-white font-Roboto text-lg lg:text-2xl ">Quem descobriu o Brasil?</p>
         </div>
 
         <div onClick={()=> selecionado('A')} className="w-1/2 bg-transparent flex gap-3  font-Roboto">
