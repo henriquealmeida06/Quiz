@@ -1,5 +1,6 @@
 import {useState} from 'react'
 import {Link} from 'react-router-dom'
+import { RiArrowGoBackLine } from "react-icons/ri";
 
 function Pergunta(){
 
@@ -61,7 +62,7 @@ function Pergunta(){
 
         <div className='mt-3 flex gap-5'>
             <Link to="/">
-            <button className='bg-gray-800 px-4 py-2 font-Roboto rounded-lg outline-none text-white'>Menu</button>
+            <button className='bg-gray-800 px-8 py-2 font-Roboto rounded-lg outline-none text-white'><span className='text-2xl'>{<RiArrowGoBackLine />}</span></button>
             </Link>
             <button className='bg-gray-800 px-4 py-2 font-Roboto rounded-lg outline-none text-white'>Confirmar</button>
             
