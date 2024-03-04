@@ -9,9 +9,9 @@ Este projeto é um Quiz de perguntas e respostas, ainda está em desenvolvimento
 - Soma pontos a cada pergunta acertada e finaliza o jogo após uma pergunta errada, contabilizando o total de pontos para o jogador
 
 ## Tecnologia utilizada:
--JavaScript
--React - (React Router, UseEffect, UseState)
--Tailwind
+- JavaScript
+- React - (React Router, UseEffect, UseState)
+- Tailwind
 
 ## Instruções de Instalação
 
