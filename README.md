@@ -18,3 +18,4 @@ Este projeto é um Quiz de perguntas e respostas, ainda está em desenvolvimento
 1. Clone o repositório para sua máquina.
    ```bash
    git clone https://github.com/henriquealmeida06/Quiz.git
+
